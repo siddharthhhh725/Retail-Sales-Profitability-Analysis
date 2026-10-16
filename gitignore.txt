@@ -1,0 +1,17 @@
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Tableau temporary / lock files
+*.twb.lock
+*.tde
+
+# Optional: ignore local Tableau extracts if you do not intend to publish them
+# *.hyper
