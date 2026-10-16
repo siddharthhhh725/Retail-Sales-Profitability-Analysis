@@ -57,12 +57,6 @@ Retail-Sales-Profitability-Analysis/
 - How do sales and profit change over time?
 - How do monthly sales compare with category-level targets?
 
-## Dashboard Preview
-
-After taking a screenshot of the dashboard, save it as `screenshots/dashboard.png` and display it here:
-
-![Retail Sales & Profitability Analysis Dashboard](screenshots/dashboard.png)
-
 ## Skills Demonstrated
 
 - Tableau dashboard development
